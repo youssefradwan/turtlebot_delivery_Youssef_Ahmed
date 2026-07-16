@@ -119,5 +119,5 @@ Result:
 
 ## 🤖 5. Demo: Video
 
-To visualize the kinematic calculations and normal reactions in real-time, hook the controller up to a 2D simulation like Turtlesim.
+https://drive.google.com/file/d/1IoqMXwlYh_utkgfWcQhaELDhdzM0Fv4r/view?usp=sharing
 
