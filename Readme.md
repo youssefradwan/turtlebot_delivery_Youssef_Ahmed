@@ -31,8 +31,6 @@ turtlebot_delivery_youssef_ahmed/
 
 ## ⚙️ 1. Step-by-Step Setup Instructions
 
-### Prerequisites
-Ensure you have ROS 2 (Humble or later) installed and sourced on your Ubuntu machine, along with the `colcon` build tool.
 
 ### Workspace Setup
 1. **Prepare the workspace:**
